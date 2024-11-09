@@ -9,7 +9,7 @@ export default hopeTheme({
 
   hostname: "pxslzdh.cn",
 
-  favicon: "/assets/icon/favicon",
+  favicon: "/assets/icon/favicon.ico",
 
   iconAssets: "fontawesome-with-brands",
 
