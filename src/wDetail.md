@@ -1,0 +1,142 @@
+---
+home: true
+icon: user-tie
+title: 公司简介
+name: 公司简介
+bgImage: /assets/bg_img/6-light.svg
+bgImageDark: /assets/bg_img/6-dark.svg
+bgImageStyle:
+  background-attachment: fixed
+heroText: 沛县水利机械化施工有限公司
+tagline: 沛 县 水 利 机 械 化 施 工 有 限 公 司 欢 迎 您 ！
+
+highlights:
+  - header: 荣 誉 资 质
+    image: /assets/image/honor.svg
+    bgImage: /assets/bg_img/3-light.svg
+    bgImageDark: /assets/bg_img/3-dark.svg
+    highlights:
+      - title: 企 业 信 用 报 告
+        link: /wHonor
+      - title: 环 境 管 理 体 系 认 证 证 书
+        link: /wHonor
+      - title: 质 量 管 理 体 系 认 证 证 书
+        link: /wHonor
+      - title: 守 合 同 重 信 用 企 业 证 书
+        link: /wHonor
+      - title: 水 利 工 程 建 设 单 位 考 核 证 书
+        link: /wHonor
+      - title: 江 苏 省 水 利 安 全 生 产 标 准 化 证 书
+        link: /wHonor
+      - title: 职 业 健 康 安 全 管 理 体 系 认 证 证 书
+        link: /wHonor
+      - title: 徐 州 市 水 利 工 程 建 设 单 位 考 核 证 书
+        link: /wHonor
+      - title: 江 苏 省 水 利 工 程 建 设 单 位 考 核 证 书
+        link: /wHonor
+
+  - header: 公 司 项 目
+    image: /assets/image/project.svg
+    bgImage: /assets/bg_img/2-light.svg
+    bgImageDark: /assets/bg_img/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 公 司 项 目-1
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-2
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-3
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-4
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-5
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-6
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-7
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+      - title: 公 司 项 目-8
+        icon: clipboard-check
+        details: 查 看 详 情
+        link: /wProject
+
+
+  - header: 安 全 生 产
+    image: /assets/image/safe.svg
+    bgImage: /assets/bg_img/9-light.svg
+    bgImageDark: /assets/bg_img/9-dark.svg
+    highlights:
+      - title: 总览
+        icon: list-ol
+        link: /wSafe
+      - title: 应急救援
+        icon: kit-medical
+        link: /wSafe_Part3
+      - title: 重大危险源监控
+        icon: triangle-exclamation
+        link: /wSafe_Part4
+      - title: 安全生产预警预测
+        icon: tower-broadcast
+        link: /wSafe_Part2
+      - title: 安全风险管理和隐患自查
+        icon: check-to-slot
+        link: /wSafe_Part1
+
+
+  - header: 党 团 活 动
+    image: /assets/image/team.svg
+    bgImage: /assets/bg_img/5-light.svg
+    bgImageDark: /assets/bg_img/5-dark.svg
+    highlights:
+      - title: 党建记录-1
+        icon: book
+        link: /wTeam
+      - title: 党建记录-2
+        icon: book
+        link: /wTeam
+      - title: 党建记录-3
+        icon: book
+        link: /wTeam
+      - title: 党建记录-4
+        icon: book
+        link: /wTeam
+      - title: 党建记录-5
+        icon: book
+        link: /wTeam
+      - title: 党建记录-6
+        icon: book
+        link: /wTeam
+
+  - header: 联 系 我 们
+    image: /assets/image/contant.svg
+    bgImage: /assets/bg_img/1-light.svg
+    bgImageDark: /assets/bg_img/1-dark.svg
+    features:
+      - title: 会 面 洽 谈
+        icon: map-location
+        details: 跳 转 导 航
+        link: https://ditu.amap.com/search?id=B0FFHEYGUF&city=320322&geoobj=116.921259%7C34.733259%7C116.929404%7C34.737115&query_type=IDQ&query=%E6%B2%9B%E5%8E%BF%E5%BB%BA%E7%AE%A1%E5%B1%80&zoom=17.5
+
+      - title: 联 系 方 式
+        icon: comment-dots
+        details: 跳 转 导 航
+        link: https://ditu.amap.com/search?id=B0FFHEYGUF&city=320322&geoobj=116.921259%7C34.733259%7C116.929404%7C34.737115&query_type=IDQ&query=%E6%B2%9B%E5%8E%BF%E5%BB%BA%E7%AE%A1%E5%B1%80&zoom=17.5
+
+
+copyright: "Copyright © 2024 沛县水利机械化施工有限公司"
