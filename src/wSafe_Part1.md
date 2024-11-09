@@ -8,4 +8,4 @@ footer: true
 copyright: "Copyright © 2024 沛县水利机械化施工有限公司"
 ---
 
-<PDF url="//theme-hope-assets.vuejs.press/files/sample.pdf"/>
+<PDF url="//github.com/xGit-P/xGit-p.github.io/blob/main/src/.vuepress/public/assets/pxslzdh_safe/safe_check/SafeCheck_small.pdf"/>
